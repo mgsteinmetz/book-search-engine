@@ -13,12 +13,12 @@ export const QUERY_USER = gql`
 export const QUERY_BOOK = gql`
     query book($_id: String) {
         book(_id: $_id) {
-            authors
-            desciption
-            bookId
-            image
-            link
-            title
+            savedBooks {
+                title
+                description
+                authors
+                bookId
+            }
         }
     }
 `;
