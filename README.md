@@ -13,7 +13,7 @@
 ## Description
 This is my first MERN application! It is a book search engine that allows users to search, view, and save books!
 
-Click [HERE](https://boiling-beyond-49891.herokuapp.com/) to VIEW my deployed application!!
+Click https://boiling-beyond-49891.herokuapp.com/ to VIEW my deployed application!!
 
 Here is what my application looks like:
 
